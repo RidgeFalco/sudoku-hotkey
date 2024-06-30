@@ -15,5 +15,11 @@
       "matches": ["*://sudoku.com/*"],
       "js": ["sudoku-hotkey.js"]
     }
-  ]
+  ],
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sudoku-hotkey@ridgefalco.netlify.app"
+    }
+  }
 }
